@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Ana",
+        "idade": 20,
+        "cidade": "Belo Horizonte"
+    },
+    {
+        "nome": "Pedro",
+        "idade": 30,
+        "cidade": "Diamantina"
+    },
+    {
+        "nome": "Maria",
+        "idade": 23,
+        "cidade": "Contagem"
+    }
+]
